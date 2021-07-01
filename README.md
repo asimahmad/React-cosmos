@@ -9,3 +9,6 @@
  - create a file .fixture.js in src folder and refresh the cosmos UI to check if the fixture is shown under all fixtures tab in the localhost of cosmos.
 
  
+ 
+ 
+ This project is under development and it has some issues currently.
